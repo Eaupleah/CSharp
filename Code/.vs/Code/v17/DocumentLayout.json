@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eaupleah\\Documents\\Code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3792033-557C-48CD-B7A3-D3C096B213EC}|CSharp\\CSharp.csproj|c:\\users\\eaupleah\\documents\\code\\csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3792033-557C-48CD-B7A3-D3C096B213EC}|CSharp\\CSharp.csproj|solutionrelative:csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3792033-557C-48CD-B7A3-D3C096B213EC}|CSharp\\CSharp.csproj|c:\\users\\eaupleah\\documents\\code\\csharp\\modules\\foreachloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3792033-557C-48CD-B7A3-D3C096B213EC}|CSharp\\CSharp.csproj|solutionrelative:csharp\\modules\\foreachloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3792033-557C-48CD-B7A3-D3C096B213EC}|CSharp\\CSharp.csproj|c:\\users\\eaupleah\\documents\\code\\csharp\\modules\\dowhileloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3792033-557C-48CD-B7A3-D3C096B213EC}|CSharp\\CSharp.csproj|solutionrelative:csharp\\modules\\dowhileloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3792033-557C-48CD-B7A3-D3C096B213EC}|CSharp\\CSharp.csproj|c:\\users\\eaupleah\\documents\\code\\csharp\\modules\\display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3792033-557C-48CD-B7A3-D3C096B213EC}|CSharp\\CSharp.csproj|solutionrelative:csharp\\modules\\display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3792033-557C-48CD-B7A3-D3C096B213EC}|CSharp\\CSharp.csproj|c:\\users\\eaupleah\\documents\\code\\csharp\\modules\\forloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3792033-557C-48CD-B7A3-D3C096B213EC}|CSharp\\CSharp.csproj|solutionrelative:csharp\\modules\\forloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3792033-557C-48CD-B7A3-D3C096B213EC}|CSharp\\CSharp.csproj|c:\\users\\eaupleah\\documents\\code\\csharp\\modules\\whileloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3792033-557C-48CD-B7A3-D3C096B213EC}|CSharp\\CSharp.csproj|solutionrelative:csharp\\modules\\whileloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3792033-557C-48CD-B7A3-D3C096B213EC}|CSharp\\CSharp.csproj|c:\\users\\eaupleah\\documents\\code\\csharp\\csharp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C3792033-557C-48CD-B7A3-D3C096B213EC}|CSharp\\CSharp.csproj|solutionrelative:csharp\\csharp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Display.cs",
+              "DocumentMoniker": "C:\\Users\\Eaupleah\\Documents\\Code\\CSharp\\Modules\\Display.cs",
+              "RelativeDocumentMoniker": "CSharp\\Modules\\Display.cs",
+              "ToolTip": "C:\\Users\\Eaupleah\\Documents\\Code\\CSharp\\Modules\\Display.cs",
+              "RelativeToolTip": "CSharp\\Modules\\Display.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T08:28:47.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ForEachLoop.cs",
+              "DocumentMoniker": "C:\\Users\\Eaupleah\\Documents\\Code\\CSharp\\Modules\\ForEachLoop.cs",
+              "RelativeDocumentMoniker": "CSharp\\Modules\\ForEachLoop.cs",
+              "ToolTip": "C:\\Users\\Eaupleah\\Documents\\Code\\CSharp\\Modules\\ForEachLoop.cs",
+              "RelativeToolTip": "CSharp\\Modules\\ForEachLoop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T08:28:16.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoWhileLoop.cs",
+              "DocumentMoniker": "C:\\Users\\Eaupleah\\Documents\\Code\\CSharp\\Modules\\DoWhileLoop.cs",
+              "RelativeDocumentMoniker": "CSharp\\Modules\\DoWhileLoop.cs",
+              "ToolTip": "C:\\Users\\Eaupleah\\Documents\\Code\\CSharp\\Modules\\DoWhileLoop.cs",
+              "RelativeToolTip": "CSharp\\Modules\\DoWhileLoop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T08:27:55.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ForLoop.cs",
+              "DocumentMoniker": "C:\\Users\\Eaupleah\\Documents\\Code\\CSharp\\Modules\\ForLoop.cs",
+              "RelativeDocumentMoniker": "CSharp\\Modules\\ForLoop.cs",
+              "ToolTip": "C:\\Users\\Eaupleah\\Documents\\Code\\CSharp\\Modules\\ForLoop.cs",
+              "RelativeToolTip": "CSharp\\Modules\\ForLoop.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAADwv5AAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T08:27:30.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eaupleah\\Documents\\Code\\CSharp\\Program.cs",
+              "RelativeDocumentMoniker": "CSharp\\Program.cs",
+              "ToolTip": "C:\\Users\\Eaupleah\\Documents\\Code\\CSharp\\Program.cs",
+              "RelativeToolTip": "CSharp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T08:25:41.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WhileLoop.cs",
+              "DocumentMoniker": "C:\\Users\\Eaupleah\\Documents\\Code\\CSharp\\Modules\\WhileLoop.cs",
+              "RelativeDocumentMoniker": "CSharp\\Modules\\WhileLoop.cs",
+              "ToolTip": "C:\\Users\\Eaupleah\\Documents\\Code\\CSharp\\Modules\\WhileLoop.cs",
+              "RelativeToolTip": "CSharp\\Modules\\WhileLoop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T08:25:05.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CSharp",
+              "DocumentMoniker": "C:\\Users\\Eaupleah\\Documents\\Code\\CSharp\\CSharp.csproj",
+              "RelativeDocumentMoniker": "CSharp\\CSharp.csproj",
+              "ToolTip": "C:\\Users\\Eaupleah\\Documents\\Code\\CSharp\\CSharp.csproj",
+              "RelativeToolTip": "CSharp\\CSharp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-12T08:24:39.901Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
